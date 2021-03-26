@@ -14,6 +14,6 @@ When completed, please upload
 - <EmailAddress_Task2>.zip
 - <EmailAddress_Video>.XXX
 
-via [TestingPerformanceStudy - Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScIr5u1g2MN_IgxQapZOuhAszypoJLr8tw5o9qBJ_dtUAygpw/viewform)
+via Google Form.
 
 If you would like to keep a copy of the Informed Consent Form, please feel free to download the [Stolee_18025_Consent_Form.pdf](https://github.com/ginaBai/TestingPerformanceStudy/blob/master/Stolee_18025_Consent_Form.pdf)
